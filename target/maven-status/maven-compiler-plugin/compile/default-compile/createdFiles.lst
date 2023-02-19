@@ -1,0 +1,4 @@
+com\example\botumbrella\config\BotInitializer.class
+com\example\botumbrella\BotUmbrellaApplication.class
+com\example\botumbrella\config\BotConfig.class
+com\example\botumbrella\service\TelegramBot.class
